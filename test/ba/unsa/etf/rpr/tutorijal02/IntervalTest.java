@@ -1,5 +1,7 @@
 package ba.unsa.etf.rpr.tutorijal02;
 
+//import ba.unsa.etf.rpr.tutorijal02.Interval;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class IntervalTest {
